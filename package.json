@@ -1,0 +1,22 @@
+{
+  "name": "sezong-platform-html",
+  "version": "0.1.0",
+  "description": "Sezong Platform for HTML",
+  "main": "index.js",
+  "repository": "https://github.com/langsezong/sezong-platform-html",
+  "author": "RanolP <public.ranolp@gmail.com>",
+  "directories": {
+    "lib": "./dist"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "sezong": "^0.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "prettier": "^1.16.1",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "typescript": "^3.2.4"
+  }
+}
