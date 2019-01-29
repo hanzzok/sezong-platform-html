@@ -1,13 +1,13 @@
 {
   "name": "sezong-platform-html",
-  "version": "0.1.1",
-  "description": "Sezong Platform for HTML",
+  "version": "0.1.2",
+  "description": "The Sezong platform which provides HTML result as a string",
   "main": "index.js",
   "repository": "https://github.com/langsezong/sezong-platform-html",
   "author": "RanolP <public.ranolp@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "sezong": "^0.3.4"
+    "sezong": "^0.4.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
